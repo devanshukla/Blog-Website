@@ -20,7 +20,7 @@ jobs = [{
 }, {
   'id': 4,
   'title': "Food Analayst",
-  'Location': "Bengaluru,India",
+  'Location': "Delhi,India",
   'Salary': 1000000
 }]
 
